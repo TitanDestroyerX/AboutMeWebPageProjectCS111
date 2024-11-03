@@ -1,0 +1,33 @@
+body {
+	background: #5585b5;
+	font-family: georgia;
+	color: #bbe4e9;
+	margin: 100px;
+}
+
+h1 {
+	color: #f87d09;
+	text-shadow: 2px 2px 2px darkblue;
+}
+
+h3 {
+	color: #ff9966;
+	text-shadow: 1px 1px 1px darkblue;
+
+}
+
+p {
+	border: 2px solid #415f9d;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
+  	border-radius: 5px;
+	padding: 20px;
+}
+
+#div1 {
+	width: 960px;
+	height: 538px;
+	background-image: url("desert island royalty free.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
